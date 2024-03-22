@@ -1,0 +1,20 @@
+register c c
+register as admin a a
+login a a
+admin menu
+add airplane p 20
+show airplanes
+add airplane jimbo 11
+add flight t m 1403-01-10 jim 200
+add flight t m 1403-01-10 jimbo 200
+add flight t s 1403-01-11 jimbo 300
+add flight m b 1403-01-12 jimbo 100
+show all flights
+back
+logout
+login c c
+customer menu
+charge account 100
+show balance
+charge account 200
+purchase ticket t m
